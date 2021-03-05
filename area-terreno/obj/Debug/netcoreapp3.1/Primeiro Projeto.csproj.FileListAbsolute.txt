@@ -1,0 +1,13 @@
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.exe
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.deps.json
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.runtimeconfig.json
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.dll
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.pdb
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.dll
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.pdb
+C:\Users\Marco\Desktop\Estudos VS-21\Primeiro Projeto\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.genruntimeconfig.cache
